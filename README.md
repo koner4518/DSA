@@ -92,6 +92,9 @@ I’m continuously solving problems and tracking my progress here.
 | # | Problem Name | Difficulty | Solution File |
 |---|--------------|------------|----------------|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/ListNode.java)  |
+| 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/MergeTwoSortedList.java)  |
+| 3 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Remove_Cycle.java)  |
+| 4 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/PalindromeLinkedList.java)  |
 
 </details>
 
