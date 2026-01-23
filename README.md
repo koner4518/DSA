@@ -28,6 +28,10 @@ I’m continuously solving problems and tracking my progress here.
 | 10 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Next_Permutation.java) |
 | 11 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Maximum_Subarray.java) |
 | 12 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/Beautiful_Array.java)  |
+| 13 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/pow(x%2Cn).java)  |
+| 14 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Merge_Sorted_Arrays.java)  |
+| 15 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Single_Number.java)  |
+
 
 
 </details>
