@@ -1,34 +1,46 @@
 /* Problem: https://leetcode.com/problems/trapping-rain-water/
     Time Complexity: O(n)
-    Space Complexity: O(n)
-    - Two auxiliary arrays (lMax and rMax) of size n each
+    Space Complexity: O(1)
+     * Uses two-pointer technique to calculate trapped rainwater by maintaining leftMax and rightMax heights.
 */
 
 class Solution {
     public int trap(int[] height) {
-        int n = height.length;
-        int lMax[] = new int[n];   // Array to hold the maximum height from the left up to index i
-        int rMax[] = new int[n];   // Array to hold the maximum height from the right up to index i
 
-        // Compute left max for every index
-        lMax[0] = height[0];
-        for (int i = 1; i < n; i++) {
-            lMax[i] = Math.max(lMax[i - 1], height[i]);
+        // Two pointers
+        int l = 0, r = height.length - 1;
+
+        // Stores total trapped water
+        int result = 0;
+
+        // Maximum heights from left and right
+        int lMax = height[l], rMax = height[r];
+
+        // Process until pointers meet
+        while (l < r) {
+
+            if (lMax < rMax) {
+                // Move left pointer
+                l++;
+
+                // Update left maximum height
+                lMax = Math.max(lMax, height[l]);
+
+                // Water trapped at current index
+                result += lMax - height[l];
+
+            } else {
+                // Move right pointer
+                r--;
+
+                // Update right maximum height
+                rMax = Math.max(rMax, height[r]);
+
+                // Water trapped at current index
+                result += rMax - height[r];
+            }
         }
 
-        // Compute right max for every index
-        rMax[n - 1] = height[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            rMax[i] = Math.max(rMax[i + 1], height[i]);
-        }
-
-        // Calculate total water trapped at each index
-        int waterTrap = 0;
-        for (int i = 0; i < n; i++) {
-            // Water level at current index is determined by the shorter of two max heights
-            int waterLevel = Math.min(lMax[i], rMax[i]);
-            waterTrap += waterLevel - height[i];
-        }
-        return waterTrap;
+        return result;
     }
 }
