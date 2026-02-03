@@ -48,6 +48,7 @@ I’m continuously solving problems and tracking my progress here.
 | 2 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/SingleElement_inSortedArray.java)  |
 | 3 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/RotatedSorted_Array.java)  |
 | 4 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/Peak_Index.java)  |
+| 5 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Aggressive_Cows.java)  |
 
 </details>
 
