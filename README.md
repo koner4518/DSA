@@ -66,6 +66,7 @@ I’m continuously solving problems and tracking my progress here.
 | 5 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Check_Inclusion.java)  |
 | 6 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/String_Compression.java)  |
 | 7 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Group_Anagrams.java)  |
+| 8 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Longest_common_prefix.java)  |
 
 
 </details>
