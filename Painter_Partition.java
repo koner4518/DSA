@@ -5,8 +5,6 @@
  * Uses Binary Search on Answer to minimize the maximum time taken by any painter.
  */
 public class Painter_Partition {
-
-
     public static int paintersPartition(int[] arr, int m) {
 
         // Minimum possible time = max single board length
