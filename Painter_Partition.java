@@ -1,6 +1,6 @@
 /*
  * Time Complexity: O(n log S)
- *   where S = sum of all board lengths
+ * where S = sum of all board lengths
  * Space Complexity: O(1)
  * Uses Binary Search on Answer to minimize the maximum time taken by any painter.
  */
