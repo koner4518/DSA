@@ -50,6 +50,7 @@ I’m continuously solving problems and tracking my progress here.
 | 4 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium  | [Link](https://github.com/supriyokoner/DSA/blob/main/Peak_Index.java)  |
 | 5 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Aggressive_Cows.java)  |
 | 6 | [Painter's Partition](https://www.hackerearth.com/problem/algorithm/painters-partition/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Painter_Partition.java)  |
+| 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard  | [Link](https://github.com/koner4518/DSA/blob/main/Median_Of_2sorted_Arrays.java)  |
 
 </details>
 
