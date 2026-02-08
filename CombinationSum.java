@@ -1,52 +1,49 @@
-/* Problem: https://leetcode.com/problems/combination-sum/
+/*
+ * Time Complexity: O(2^n)  (approximate, due to backtracking)
+ * Space Complexity: O(target)  (recursion depth + current combination list)
  *
- * Time Complexity: O(2^t), where t = target
- * - In the worst case, we try many combinations through recursion and backtracking.
- * 
- * Space Complexity: O(t)
- * - Recursive call stack and current combination list can go up to length t.
+ * Uses backtracking to generate all unique combinations where the chosen numbers sum to the given target.
  */
-
 import java.util.*;
 
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> res = new ArrayList<>();
+    public List<List<Integer>> combinationSum(int[] nums, int target) {
 
-        // Start recursive backtracking
-        makeCombination(candidates, target, 0, res, 0, new ArrayList<>());
-        return res;
+        // Sort to enable pruning when nums[i] > target
+        Arrays.sort(nums);
+
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> curr = new ArrayList<>();
+
+        backtrack(nums, target, 0, curr, result);
+
+        return result;
     }
 
-    /**
-     * Recursive helper to generate all valid combinations
-     * 
-     *  candidates - array of candidate numbers
-     *  target - target sum we want to reach
-     *  idx - current index in candidates array
-     *  res - final result list to store all valid combinations
-     *  total - current total sum of elements in the current combination
-     *  comb - current combination being built
-     */
-    public void makeCombination(int[] candidates, int target, int idx,
-                                List<List<Integer>> res, int total, List<Integer> comb) {
+    private void backtrack(int[] nums, int target, int start,
+        List<Integer> curr, List<List<Integer>> result) {
+
         // Found a valid combination
-        if (total == target) {
-            res.add(new ArrayList<>(comb)); // Add a copy to avoid reference issues
+        if (target == 0) {
+            result.add(new ArrayList<>(curr)); // make a copy
             return;
         }
 
-        // Base case: sum exceeds target or index is out of bounds
-        if (total > target || idx >= candidates.length) return;
+        // Try each candidate starting from 'start'
+        for (int i = start; i < nums.length; i++) {
 
-        // Include the current number (can be reused)
-        comb.add(candidates[idx]);
-        makeCombination(candidates, target, idx, res, total + candidates[idx], comb);
+            // If current number is greater than remaining target,
+            // no need to continue (array is sorted)
+            if (nums[i] > target) break;
 
-        // Backtrack: remove last number added
-        comb.remove(comb.size() - 1);
+            // Choose the current number
+            curr.add(nums[i]);
 
-        // Exclude the current number and move to the next
-        makeCombination(candidates, target, idx + 1, res, total, comb);
+            // Reuse the same element, so pass i (not i + 1)
+            backtrack(nums, target - nums[i], i, curr, result);
+
+            // Undo the choice (backtrack)
+            curr.remove(curr.size() - 1);
+        }
     }
 }
