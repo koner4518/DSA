@@ -89,6 +89,7 @@ I’m continuously solving problems and tracking my progress here.
 | 5 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/Sudoku_Solver.java)  |
 | 6 | [N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | Hard | [Link](https://github.com/supriyokoner/DSA/blob/main/N_Queens2.java)  |
 | 7 | [Tower of Hanoi](//https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | Medium | [Link](//https://github.com/koner4518/DSA/blob/main/Tower_Of_Hanoi.java)  |
+| 8 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Unique_Paths.java)  |
 
 </details>
 
