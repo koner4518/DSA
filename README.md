@@ -108,7 +108,7 @@ I’m continuously solving problems and tracking my progress here.
 | 3 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Remove_Cycle.java)  |
 | 4 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/PalindromeLinkedList.java)  |
 | 5 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Add_Two_Numbers.java)  |
-| 4 | [ReOrder List](https://leetcode.com/problems/reorder-list/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/ReOrder_List.java)  |
+| 6 | [ReOrder List](https://leetcode.com/problems/reorder-list/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/ReOrder_List.java)  |
 
 </details>
 
