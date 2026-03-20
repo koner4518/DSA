@@ -108,7 +108,10 @@ I’m continuously solving problems and tracking my progress here.
 | 3 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Remove_Cycle.java)  |
 | 4 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy | [Link](https://github.com/supriyokoner/DSA/blob/main/PalindromeLinkedList.java)  |
 | 5 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Add_Two_Numbers.java)  |
-| 6 | [ReOrder List](https://leetcode.com/problems/reorder-list/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/ReOrder_List.java)  |
+| 6 | [ReOrder List](https://leetcode.com/problems/reorder-list/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/ReOrder_List.java)  |
+| 7 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Rotate_List.java)  |
+| 8 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | Hard | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_Nodes_In_k_Groups.java)  |
+| 9 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Rotate_List.java)  |
 
 </details>
 
