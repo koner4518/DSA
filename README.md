@@ -112,6 +112,8 @@ I’m continuously solving problems and tracking my progress here.
 | 7 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Rotate_List.java)  |
 | 8 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | Hard | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_Nodes_In_k_Groups.java)  |
 | 9 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Solution.java)  |
+| 10 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_LinkedList_ll.java)  |
+| 11 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Odd_Even_LinkedList.java)  |
 
 </details>
 
