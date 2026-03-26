@@ -118,6 +118,18 @@ I’m continuously solving problems and tracking my progress here.
 </details>
 
 ---
+
+## 🗂️ Stacks & Queues
+<details>
+<summary>Click to expand</summary>
+
+| # | Problem Name | Difficulty | Solution File |
+|---|--------------|------------|----------------| 
+
+</details>
+
+---
+
 ✅ This table will grow as I solve more problems.
 
 ---
