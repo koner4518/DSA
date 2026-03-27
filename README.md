@@ -125,6 +125,7 @@ I’m continuously solving problems and tracking my progress here.
 
 | # | Problem Name | Difficulty | Solution File |
 |---|--------------|------------|----------------| 
+| 1 | [Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Stack_By_Queues.java)  |
 
 </details>
 
