@@ -1,22 +1,31 @@
-/* Problem: https://leetcode.com/problems/find-the-duplicate-number/
-   Time Complexity: O(n)
-   Space Complexity: O(n)
-  - We use an extra boolean array to track visited numbers.
+/*
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ *
+ * Uses Floyd’s Cycle Detection (Tortoise & Hare).
+ * Duplicate number forms a cycle in this structure.
  */
-
 class Solution {
     public int findDuplicate(int[] nums) {
-        // Create a boolean array to track seen numbers
-        boolean[] freq = new boolean[nums.length];
-        
-        // Traverse the array
-        for (int i = 0; i < nums.length; i++) {
-            // If the number was already seen, it's the duplicate
-            if (freq[nums[i]]) return nums[i];
-            // Mark the number as seen
-            freq[nums[i]] = true;
+
+        // Step 1: Find intersection point inside the cycle
+        int slow = 0, fast = 0;
+
+        while (true) {
+            slow = nums[slow];           // move 1 step
+            fast = nums[nums[fast]];     // move 2 steps
+
+            if (slow == fast) break;     // cycle detected
         }
 
-        return -1;
+        // Step 2: Find entry point of cycle (duplicate number)
+        slow = 0;
+
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+
+        return slow;
     }
 }
