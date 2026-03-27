@@ -70,6 +70,7 @@ I’m continuously solving problems and tracking my progress here.
 | 6 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/String_Compression.java)  |
 | 7 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Link](https://github.com/supriyokoner/DSA/blob/main/Group_Anagrams.java)  |
 | 8 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Longest_common_prefix.java)  |
+| 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/First_Unique_Character_In_String.java)  |
 
 
 </details>
@@ -127,7 +128,8 @@ I’m continuously solving problems and tracking my progress here.
 |---|--------------|------------|----------------| 
 | 1 | [Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Stack_By_Queues.java)  |
 | 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Valid_Parentheses.java)  |
-| 3 | [Queue Using Stacks](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Stack_By_Queues.java)  |
+| 3 | [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Queue_By_Stacks.java)  |
+| 4 | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_1st_K_Of_Queue.java)  |
 
 </details>
 
