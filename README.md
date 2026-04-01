@@ -130,6 +130,8 @@ I’m continuously solving problems and tracking my progress here.
 | 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Valid_Parentheses.java)  |
 | 3 | [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Queue_By_Stacks.java)  |
 | 4 | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_1st_K_Of_Queue.java)  |
+| 5 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Time_Needed_To_Buy_Tickets.java)  |
+| 6 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Min_Stack.java)  |
 
 </details>
 
