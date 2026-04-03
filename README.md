@@ -31,7 +31,7 @@ I’m continuously solving problems and tracking my progress here.
 | 13 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/pow(x%2Cn).java)  |
 | 14 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Merge_Sorted_Arrays.java)  |
 | 15 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Single_Number.java)  |
-
+| 16 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Gas_Station.java)  |
 
 
 </details>
@@ -134,6 +134,8 @@ I’m continuously solving problems and tracking my progress here.
 | 6 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Min_Stack.java)  |
 | 7 | [Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Celebrity_Problem.java)  |
 | 8 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | Hard | [Link](https://github.com/koner4518/DSA/blob/main/Largest_Rectangle_In_Histogram.java)  |
+| 9 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/LRU_Cache.java)  |
+| 10 | [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Sort_Stack.java)  |
 
 </details>
 
