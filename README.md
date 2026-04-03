@@ -32,6 +32,9 @@ I’m continuously solving problems and tracking my progress here.
 | 14 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Merge_Sorted_Arrays.java)  |
 | 15 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Single_Number.java)  |
 | 16 | [Gas Station](https://leetcode.com/problems/gas-station/description/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Gas_Station.java)  |
+| 17 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Easy  | [Link](https://github.com/koner4518/DSA/blob/main/Majority_Element.java)  |
+| 18 | [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Largest_Subarray_Sum_Zero.java)  |
+| 19 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | Medium  | [Link](https://github.com/koner4518/DSA/blob/main/Subarray_Sum_EqualsK.java)  |
 
 
 </details>
