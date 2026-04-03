@@ -132,6 +132,8 @@ I’m continuously solving problems and tracking my progress here.
 | 4 | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Reverse_1st_K_Of_Queue.java)  |
 | 5 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Time_Needed_To_Buy_Tickets.java)  |
 | 6 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Min_Stack.java)  |
+| 7 | [Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Celebrity_Problem.java)  |
+| 8 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | Hard | [Link](https://github.com/koner4518/DSA/blob/main/Largest_Rectangle_In_Histogram.java)  |
 
 </details>
 
