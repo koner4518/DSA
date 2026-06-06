@@ -144,6 +144,18 @@ I’m continuously solving problems and tracking my progress here.
 
 ---
 
+## 🌳 Binary Tree & BST
+<details>
+<summary>Click to expand</summary>
+
+| # | Problem Name | Difficulty | Solution File |
+|---|--------------|------------|----------------| 
+| 1 | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Inorder_Traversal.java)  |
+
+</details>
+
+---
+
 ✅ This table will grow as I solve more problems.
 
 ---
