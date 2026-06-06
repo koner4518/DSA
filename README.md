@@ -151,6 +151,11 @@ I’m continuously solving problems and tracking my progress here.
 | # | Problem Name | Difficulty | Solution File |
 |---|--------------|------------|----------------| 
 | 1 | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Inorder_Traversal.java)  |
+| 2 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/LevelOrder_Traversal.java)  |
+| 3 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Symetric_Tree.java)  |
+| 4 | [Diameter of a BT](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Diameter.java)  |
+| 5 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Same_tree.java)  |
+
 
 </details>
 
