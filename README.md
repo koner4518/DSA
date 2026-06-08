@@ -161,6 +161,10 @@ I’m continuously solving problems and tracking my progress here.
 | 9 | [Top View of a Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Top_View_Of_BinaryTree.java)  |
 | 10 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Lowest_Common_Ancestor.java)  |
 | 11 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Maximum_Level_Sum_BinaryTree.java)  |
+| 12 | [Sorted Array to Ballanced BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Sorted_Array_To_Balanced_BST.java)  |
+| 13 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Kth_Smallest_In_BST.java)  |
+| 14 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/LCA_In_BST.java)  |
+| 15 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Validate_BST.java)  |
 
 
 </details>
