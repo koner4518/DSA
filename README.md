@@ -155,6 +155,12 @@ I’m continuously solving problems and tracking my progress here.
 | 3 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Symetric_Tree.java)  |
 | 4 | [Diameter of a BT](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Diameter.java)  |
 | 5 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Same_tree.java)  |
+| 6 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Subtree_Of_Another_Tree.java)  |
+| 7 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Balanced_BinaryTree.java)  |
+| 8 | [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Bottom_View_Of_BinaryTree.java)  |
+| 9 | [Top View of a Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Top_View_Of_BinaryTree.java)  |
+| 10 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Lowest_Common_Ancestor.java)  |
+| 11 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Maximum_Level_Sum_BinaryTree.java)  |
 
 
 </details>
