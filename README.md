@@ -167,6 +167,9 @@ I’m continuously solving problems and tracking my progress here.
 | 15 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Validate_BST.java)  |
 | 16 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Delete_Node_In_BST.java)  |
 | 17 | [Largest BST in a BT](https://leetcode.com/problems/largest-bst-subtree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Largest_BST_In_BinaryTree.java)  |
+| 18 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Minimum_Distance_Between_BST_Nodes.java)  |
+| 19 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) | Easy | [Link](https://github.com/koner4518/DSA/blob/main/Range_Sum_Of_BST.java)  |
+| 20 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Balance_aBST.java)  |
 
 </details>
 
