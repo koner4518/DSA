@@ -144,7 +144,7 @@ I’m continuously solving problems and tracking my progress here.
 
 ---
 
-## 🌳 Binary Tree & BST
+## 🌳 Binary & Binary Search Trees
 <details>
 <summary>Click to expand</summary>
 
@@ -165,7 +165,8 @@ I’m continuously solving problems and tracking my progress here.
 | 13 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Kth_Smallest_In_BST.java)  |
 | 14 | [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/LCA_In_BST.java)  |
 | 15 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Validate_BST.java)  |
-
+| 16 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Delete_Node_In_BST.java)  |
+| 17 | [Largest BST in a BT](https://leetcode.com/problems/largest-bst-subtree/description/) | Medium | [Link](https://github.com/koner4518/DSA/blob/main/Largest_BST_In_BinaryTree.java)  |
 
 </details>
 
